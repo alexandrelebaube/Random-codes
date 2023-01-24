@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  width: 250px;
+  height: 80px;
+  background-color: beige;
+  border-radius: 33%;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+button:hover {
+  background-color: orange;
+}
